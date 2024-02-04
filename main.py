@@ -173,7 +173,7 @@ def add_md_firends(repo, md, me):
         md.write("\n\n")
 
 
-def add_md_recent(repo, md, me, limit=5):
+def add_md_recent(repo, md, me, limit=17):
     count = 0
     with open(md, "a+", encoding="utf-8") as md:
         # one the issue that only one issue and delete (pyGitHub raise an exception)
