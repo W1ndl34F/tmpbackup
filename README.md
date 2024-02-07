@@ -3,6 +3,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/zerone0x/tmpbackup/master/feed.xml)
 
 ## 最近更新
+- [lifeisshort](https://github.com/zerone0x/tmpbackup/issues/108)--2024-02-07
 - [一些想做和需要做的事情](https://github.com/zerone0x/tmpbackup/issues/107)--2024-01-30
 - [一些情绪](https://github.com/zerone0x/tmpbackup/issues/106)--2024-01-29
 - [Productive, less time for working, more time for resting](https://github.com/zerone0x/tmpbackup/issues/105)--2023-12-18
@@ -16,7 +17,6 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [2305碎碎念](https://github.com/zerone0x/tmpbackup/issues/96)--2023-05-03
 - [git](https://github.com/zerone0x/tmpbackup/issues/95)--2023-04-24
 - [Computer Systems: A Programmer's Perspective](https://github.com/zerone0x/tmpbackup/issues/94)--2023-04-17
-- [今天上网在看啥](https://github.com/zerone0x/tmpbackup/issues/93)--2023-04-16
 - [东周列国春秋](https://github.com/zerone0x/tmpbackup/issues/91)--2023-04-16
 - [钢琴](https://github.com/zerone0x/tmpbackup/issues/82)--2022-10-16
 - [windows待玩游戏](https://github.com/zerone0x/tmpbackup/issues/81)--2022-10-08
