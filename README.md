@@ -3,6 +3,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/zerone0x/tmpbackup/master/feed.xml)
 
 ## 最近更新
+- [Focus](https://github.com/zerone0x/tmpbackup/issues/110)--2024-02-09
 - [workout](https://github.com/zerone0x/tmpbackup/issues/109)--2024-02-09
 - [lifeisshort](https://github.com/zerone0x/tmpbackup/issues/108)--2024-02-07
 - [一些想做和需要做的事情](https://github.com/zerone0x/tmpbackup/issues/107)--2024-01-30
@@ -19,7 +20,6 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [git](https://github.com/zerone0x/tmpbackup/issues/95)--2023-04-24
 - [Computer Systems: A Programmer's Perspective](https://github.com/zerone0x/tmpbackup/issues/94)--2023-04-17
 - [东周列国春秋](https://github.com/zerone0x/tmpbackup/issues/91)--2023-04-16
-- [钢琴](https://github.com/zerone0x/tmpbackup/issues/82)--2022-10-16
 ## blog
 - [blog 推荐](https://github.com/zerone0x/tmpbackup/issues/66)--2022-08-14
 ## book
