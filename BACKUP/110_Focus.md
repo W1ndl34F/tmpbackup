@@ -10,3 +10,7 @@ db: 废墟残留 已无valuable任何info
 ---
 
 twitter:中文圈跟xhs一样的shitpost，很难dig，可以抽空清下follow
+
+---
+
+IM: 一天看一次，不上班，天大的事都不怕
