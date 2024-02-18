@@ -24,4 +24,4 @@ d8 空腹有氧头疼 问了gpt 肌肉太少，容易掉肌肉。所以吃了早
 
 ---
 
-少算了一天 之前 d10 肩膀 手臂 爬坡
+少算了一天 之前 d10 肩膀 手臂 爬坡![image](https://github.com/zerone0x/tmpbackup/assets/39543393/76a6af5c-5ad3-43d6-919b-031c96d61f39)
