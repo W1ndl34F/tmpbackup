@@ -3,6 +3,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/zerone0x/tmpbackup/master/feed.xml)
 
 ## 最近更新
+- [情绪黑洞](https://github.com/zerone0x/tmpbackup/issues/114)--2024-02-24
 - [puzzle 之 推箱子](https://github.com/zerone0x/tmpbackup/issues/113)--2024-02-12
 - [Plan for long term](https://github.com/zerone0x/tmpbackup/issues/112)--2024-02-10
 - [ART](https://github.com/zerone0x/tmpbackup/issues/111)--2024-02-10
@@ -19,7 +20,6 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [For PSV](https://github.com/zerone0x/tmpbackup/issues/99)--2023-06-20
 - [For windows](https://github.com/zerone0x/tmpbackup/issues/98)--2023-06-07
 - [买安卓手机后要做什么](https://github.com/zerone0x/tmpbackup/issues/97)--2023-06-05
-- [2305碎碎念](https://github.com/zerone0x/tmpbackup/issues/96)--2023-05-03
 ## blog
 - [blog 推荐](https://github.com/zerone0x/tmpbackup/issues/66)--2022-08-14
 ## book
