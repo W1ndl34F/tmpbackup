@@ -5,3 +5,11 @@
 ---
 
 生活本身的单调乏味重复的接受其实就是喜剧的对立面。
+
+---
+
+too far away from audiences make the audiences feel like in their normal life, it took a bunch of efforts to combine those bull shit life shots into a short story. every incident will drive me crazy, but in comedy, just a joke.
+
+---
+
+Curb Your Enthusiasm,比seinfeld的更搞笑
